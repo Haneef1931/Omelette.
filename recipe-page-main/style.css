@@ -1,7 +1,9 @@
 body {
     background-color: hsl(30, 54%, 90%);
 }
-
+.container{
+    background-color:  hsl(0, 0%, 100%);
+}
 .Preperation-Time {
     color: hsl(332, 51%, 32%);
 }
@@ -18,4 +20,9 @@ body {
 .Nutrition {
     color: hsl(14, 45%, 36%);
 
+}
+
+.image-omelette{
+    width: 800px;
+    border-radius: 10px;
 }
